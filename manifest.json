@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "lemonde.fr, premium hack",
+  "name": "lemonde.fr, zen mode and premium hack",
   "short_name": "lemonde hack",
-  "description": "This extension allows you to read for free the premium articles of lemonde.fr website.",
+  "description": "This extension gives you free access to the zen mode of lemonde.fr for free and paid articles.",
   "version": "1.0",
   "version_name": "1.0 stable version",
   "minimum_chrome_version": "50",
