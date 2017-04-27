@@ -1,7 +1,7 @@
 {
   "name": "lemonde-hack",
   "version": "1.0.0",
-  "description": "This extension allows you to read for free the premium articles of the website lemonde.fr.",
+  "description": "This extension allows you to read for free the premium articles of website lemonde.fr.",
   "main": "background.js",
   "repository": "https://github.com/JonGiamp/lemonde-hack.git",
   "author": "JonGiamp <jonathan.giamporcaro@gmail.com>",

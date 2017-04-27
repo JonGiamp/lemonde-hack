@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "lemonde.fr, premium hack",
   "short_name": "lemonde hack",
-  "description": "This extension allows you to read for free the premium articles of the lemonde.fr website.",
+  "description": "This extension allows you to read for free the premium articles of lemonde.fr website.",
   "version": "1.0",
   "version_name": "1.0 stable version",
   "minimum_chrome_version": "50",
