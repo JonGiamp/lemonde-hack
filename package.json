@@ -1,7 +1,7 @@
 {
   "name": "lemonde-hack",
   "version": "1.0.0",
-  "description": "This extension gives you free access to the zen mode of lemonde.fr for free and paid articles.",
+  "description": "Cette extension vous donne un accès libre au mode zen de tous les articles du site lemonde.fr. Grace à cette extension, les articles réservés aux abonnés sont accessibles gratuitement.",
   "main": "background.js",
   "repository": "https://github.com/JonGiamp/lemonde-hack.git",
   "author": "JonGiamp <jonathan.giamporcaro@gmail.com>",

@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "lemonde.fr, zen mode and premium hack",
+  "name": "lemonde.fr, mode zen et accès gratuit aux articles",
   "short_name": "lemonde hack",
-  "description": "This extension gives you free access to the zen mode of lemonde.fr for free and paid articles.",
+  "description": "Cette extension vous donne un accès libre au mode zen de tous les articles du site lemonde.fr. Grace à cette extension, les articles réservés aux abonnés sont accessibles gratuitement.",
   "version": "1.0",
-  "version_name": "1.0 stable version",
+  "version_name": "1.0, version stable",
   "minimum_chrome_version": "50",
   "offline_enabled": true,
   "icons": {
