@@ -1,7 +1,5 @@
-## lemonde.fr, mode zen et accès gratuit aux articles
+## lemonde.fr, mode zen et accès gratuit aux articles réservés aux abonnés
 
-Cette extension vous donne un accès libre au mode zen de tous les articles du site lemonde.fr. Grace à cette extension, les articles réservés aux abonnés sont accessibles gratuitement.
+Cette extension vous donne un accès libre au mode zen de tous les articles du site lemonde.fr. Grace à cette extension, les articles réservés aux abonnés sont accessibles gratuitement. Aucune manipulation n'est nécessaire pour profiter du mode zen des articles du site.
 
 > Under Construction...
-
-[Lint with Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
